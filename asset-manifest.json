@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pravansKitchen/static/css/main.d1879484.chunk.css",
+    "main.js": "/pravansKitchen/static/js/main.57fac222.chunk.js",
+    "main.js.map": "/pravansKitchen/static/js/main.57fac222.chunk.js.map",
+    "runtime-main.js": "/pravansKitchen/static/js/runtime-main.76ed168f.js",
+    "runtime-main.js.map": "/pravansKitchen/static/js/runtime-main.76ed168f.js.map",
+    "static/js/2.57442a42.chunk.js": "/pravansKitchen/static/js/2.57442a42.chunk.js",
+    "static/js/2.57442a42.chunk.js.map": "/pravansKitchen/static/js/2.57442a42.chunk.js.map",
+    "index.html": "/pravansKitchen/index.html",
+    "static/css/main.d1879484.chunk.css.map": "/pravansKitchen/static/css/main.d1879484.chunk.css.map",
+    "static/js/2.57442a42.chunk.js.LICENSE.txt": "/pravansKitchen/static/js/2.57442a42.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/pravansKitchen/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76ed168f.js",
+    "static/js/2.57442a42.chunk.js",
+    "static/css/main.d1879484.chunk.css",
+    "static/js/main.57fac222.chunk.js"
+  ]
+}
